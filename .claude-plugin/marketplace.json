@@ -1,0 +1,12 @@
+{
+  "name": "skill-stocktake",
+  "version": "1.0.0",
+  "description": "Audit Claude skills and commands for quality with Quick Scan and Full Stocktake modes.",
+  "author": "shimo4228",
+  "license": "MIT",
+  "skills": [
+    {
+      "path": "skills/skill-stocktake/SKILL.md"
+    }
+  ]
+}
