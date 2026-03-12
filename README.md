@@ -1,3 +1,5 @@
+Language: English | [日本語](README.ja.md)
+
 # claude-skill-stocktake
 
 An [Agent Skill](https://agentskills.io/specification) that audits all your Claude skills and commands for quality. Uses a checklist + AI holistic judgment to produce Keep / Improve / Update / Retire / Merge verdicts.
@@ -63,11 +65,3 @@ Re-evaluates only skills that changed since the last run. Uses `scripts/quick-di
 ## License
 
 MIT
-
----
-
-## 日本語
-
-Claude のスキル・コマンドを品質監査する Agent Skill です。チェックリスト + AI の総合判断で Keep / Improve / Update / Retire / Merge の判定を出します。Quick Scan（差分のみ）と Full Stocktake（全件）の2モードに対応。
-
-詳細は [`skills/skill-stocktake/SKILL.md`](skills/skill-stocktake/SKILL.md) を参照してください。
